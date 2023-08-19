@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Prasath</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 💻 I’m currently working on [Voice Assistant](https://github.com/sai-238/Voice-Assistant)
 
